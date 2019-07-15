@@ -1,1 +1,1 @@
-Result can be viewed <a href="https://rawcdn.githack.com/amChristonasis/Udacity-Intro-to-Programming-Nanodegree/7ebad7dadc0fb3b0a45b35f186e9a08f4c97a7ab/Make%20a%20Stylish%20Webpage/index.html" target="_blank" rel="noopener">here</a>
+Result can be viewed <a href="https://rawcdn.githack.com/amChristonasis/Udacity-Intro-to-Programming-Nanodegree/7ebad7dadc0fb3b0a45b35f186e9a08f4c97a7ab/Make%20a%20Stylish%20Webpage/index.html">here</a>
